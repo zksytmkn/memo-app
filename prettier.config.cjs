@@ -2,7 +2,6 @@
 module.exports = {
   // prettier
   printWidth: 120,
-
   // @ianvs/prettier-plugin-sort-imports
   importOrder: [
     "^(react/(.*)$)|^(react$)",
